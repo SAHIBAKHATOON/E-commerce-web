@@ -4,7 +4,7 @@ import angle2 from '../images/angle 5.png'
 import angle3 from '../images/angle 6.png'
 import group26 from '../images/Group 26.png'
 import group32 from '../images/Group 32.png'
-import rectangle from '../images/rectangle 3.png'
+import rectangle from '../images/Rectangle 3.png'
 import group77 from '../images/Group 77.png'
 const Trending = () => {
   return (
