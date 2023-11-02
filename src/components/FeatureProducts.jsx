@@ -1,5 +1,4 @@
 import React from 'react'
-import angle from '../images/angle 3.png'
 import angle1 from '../images/angle 4.png'
 import angle2 from '../images/angle 5.png'
 import angle3 from '../images/angle 6.png'
