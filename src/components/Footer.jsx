@@ -1,5 +1,4 @@
 import React from 'react'
-import group243 from '../images/Group 243.png'
 
 const Footer = () => {
   return (
