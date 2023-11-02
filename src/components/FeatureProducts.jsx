@@ -2,9 +2,9 @@ import React from 'react'
 import angle1 from '../images/angle 4.png'
 import angle2 from '../images/angle 5.png'
 import angle3 from '../images/angle 6.png'
-import group26 from '../images/group 26.png'
-import group32 from '../images/group 32.png'
-import rectangle from '../images/rectangle 3.png';
+import group26 from '../images/Group 26.png'
+import group32 from '../images/Group 32.png'
+import rectangle from '../images/Rectangle 3.png';
 import banner from '../images/banner1 2.png';
 
 const FeatureProducts = () => {
