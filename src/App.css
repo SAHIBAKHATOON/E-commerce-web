@@ -397,7 +397,7 @@ margin-top: -280px;
      padding-right: 17px;  
    }
    .group-4 img{
-     max-width: 375px;
+     max-width: 380px;
      height: 170px;
    }
    .group-5{
@@ -434,7 +434,7 @@ margin-top: -280px;
    }
    .group-6,
    .image-2{
-     margin-left: -20px;
+     margin-left: -5px;
    }
    .group-6 img{
      margin-top: 50px;
@@ -476,7 +476,7 @@ margin-top: -280px;
    }
    .banner img{
      height: 110px;
-     max-width: 370px;
+     max-width: 380px;
      margin-bottom: -20px;
    }
    .collection-section,
@@ -487,32 +487,22 @@ margin-top: -280px;
    }
    .collection-section img,
    .collection-section-2 img{
-    /* overflow: hidden; */
      max-width: 300px;
      margin-left: 15px;
      margin-top: 20px;
    }
    .group-images img{
-    /* overflow: hidden;
-     max-width: 300px;
-     margin-bottom: 390px; */
-     /* margin-left: 30px; */
      margin-left: 15px;
    }
    .group-images{
     display: none;
-     /* margin-top: -990px;
-     margin-left: 15px; */
-     /* padding-left: 30px; */
-     /* margin-left: 30px; */
    }
   .collection-image-2{
-     /* margin-top: -60px; */
      margin-bottom: 390px;
   }
   .banner-3 img{
      height: 110px;
-     max-width: 370px;
+     max-width: 380px;
      margin-top: -590px;
   }
   .hurry-up{
