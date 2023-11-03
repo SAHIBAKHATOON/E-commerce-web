@@ -7,7 +7,8 @@ import group32 from '../images/Group 32.png'
 import rectangle from '../images/Rectangle 3.png';
 import banner from '../images/banner1 2.png';
 
-const FeatureProducts = () => {
+const FeatureProducts = (
+) => {
   return (
      <>
        <div className='trending'>

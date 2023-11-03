@@ -334,6 +334,8 @@ margin-top: -280px;
      margin-left: auto;
      margin-right: auto;
      font-family: sans-serif;
+     font-size: 14px;
+     margin-bottom: 40px;
     }
     .p-section{
      max-width: 300px;
@@ -350,14 +352,11 @@ margin-top: -280px;
     }
     .shopping p{
       max-width: 230px;
-      /* margin-left: 20px; */
-      /* margin-left: -5px; */
     }
     .shopping i{
       font-size: 20px;
-      margin-left: -30px;
-      padding-right: 12px;
-     
+      margin-left: -25px;
+      padding-right: 12px;    
     }
     .dummy{
       height: 50px;
@@ -398,13 +397,13 @@ margin-top: -280px;
      padding-right: 17px;  
    }
    .group-4 img{
-     max-width: 360px;
+     max-width: 375px;
      height: 170px;
    }
    .group-5{
-    max-width: 350px;
+    max-width: 370px;
      overflow: hidden;
-     margin-left: 30px;
+     margin-left: 40px;
      margin-top: -50px;
      height: 380px;    
    }
@@ -423,8 +422,8 @@ margin-top: -280px;
      
    }
    .group5-section-two{
-    max-width: 350px;
-     margin-left: -170px;
+    max-width: 370px;
+     margin-left: -160px;
    }
    .group5-section-two img{
      margin-top: 140px;
@@ -435,16 +434,18 @@ margin-top: -280px;
    }
    .group-6,
    .image-2{
-     margin-left: -5px;
+     margin-left: -20px;
    }
    .group-6 img{
      margin-top: 50px;
       height: 90px;
-      width: 160px;
+      width: 170px;
+     
    }
    .image-2 img{
      height: 60px;
      width: 105px;
+     margin-bottom: -20px;
    }
    .line{
      width: 50px;
@@ -475,35 +476,43 @@ margin-top: -280px;
    }
    .banner img{
      height: 110px;
-     max-width: 350px;
+     max-width: 370px;
      margin-bottom: -20px;
    }
    .collection-section,
    .collection-section-2{
-    max-width: 330px;
+    overflow: hidden;
+    max-width: 370px;
+    padding-left: 30px;
    }
    .collection-section img,
    .collection-section-2 img{
-    overflow: hidden;
-     width: 300px;
+    /* overflow: hidden; */
+     max-width: 300px;
      margin-left: 15px;
      margin-top: 20px;
    }
    .group-images img{
-    overflow: hidden;
+    /* overflow: hidden;
      max-width: 300px;
-     margin-bottom: 390px;
-   }
-   .group-images{
-     margin-top: -990px;
+     margin-bottom: 390px; */
+     /* margin-left: 30px; */
      margin-left: 15px;
    }
+   .group-images{
+    display: none;
+     /* margin-top: -990px;
+     margin-left: 15px; */
+     /* padding-left: 30px; */
+     /* margin-left: 30px; */
+   }
   .collection-image-2{
-     margin-top: -390px;
+     /* margin-top: -60px; */
+     margin-bottom: 390px;
   }
   .banner-3 img{
      height: 110px;
-     max-width: 350px;
+     max-width: 370px;
      margin-top: -590px;
   }
   .hurry-up{
@@ -511,7 +520,7 @@ margin-top: -280px;
      max-width: 350px;
      display: block;
      margin-top: -220px;
-     padding-left: 30px;
+     padding-left: 50px;
   }
   .hurry-up img{
      height: 360px;
@@ -522,66 +531,66 @@ margin-top: -280px;
      height: 80px;
      width: 80px;
      margin-top: 20px;
-     margin-left: 50px;
+     margin-left: 70px;
   }
    .hurry img{
    height: 20px;
      width: 90px;  
-     margin-left: 50px;
+     margin-left: 70px;
      margin-top: 120px;
    }
    .off img{
      height: 40px;
      width: 150px;
-     margin-left: 10px;
+     margin-left: 40px;
      margin-top: 170px;
    }
    .sale img{
      height: 20px;
      width: 60px;
-     margin-left: 50px;
+     margin-left: 80px;
      margin-top: 230px;
    }
    .shop img{
      height: 30px;
      width: 90px;
-     margin-left: 40px;
+     margin-left: 70px;
      margin-top: 290px;
    }
    .discount-image img{
      height: 80px;
      width: 80px;
      margin-top: 20px;
-     margin-left: -110px;
+     margin-left: -80px;
    }
    .hurry-1 img{
      margin-top: 120px;
      height: 20px;
      width: 90px;  
-     margin-left: -120px;
+     margin-left: -90px;
    }
    .off-1 img{
      height: 40px;
      width: 150px;
-     margin-left: -130px;
+     margin-left: -110px;
      margin-top: 170px;
    }
    .sale-1 img{
      height: 20px;
      width: 60px;
-     margin-left: -100px;
+     margin-left: -80px;
      margin-top: 230px;
    }
    .shop-1 img{
      height: 30px;
      width: 90px;
-     margin-left: -110px;
+     margin-left: -90px;
      margin-top: 290px;
    }
    .ellipse img{
      height: 80px;
      width: 40px;
-     margin-left: -35px;
+     margin-left: -12px;
    }
    .ellipse-2 img{   
      height: 80px;
@@ -591,7 +600,7 @@ margin-top: -280px;
     overflow: hidden;
    }
    .return-section img{
-     max-width: 350px;
+     max-width: 370px;
      height: 120px;  
    }
    .return-image {
