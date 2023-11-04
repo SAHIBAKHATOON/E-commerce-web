@@ -347,7 +347,7 @@ margin-top: 40px;
      margin-bottom: 40px;
     }
     .shopping .about{
-      padding-left: 30px;
+      padding-left: 40px;
     }
      
     .p-section{
@@ -459,13 +459,14 @@ margin-top: 40px;
    .group-6 img{
      margin-top: 50px;
       height: 90px;
-      width: 170px;  
+      width: 180px;  
       margin-right: 10px;
    }
    .image-2 img{
      height: 60px;
      width: 111px;
      margin-bottom: -20px; 
+     margin-right: 6px;
    }
    .line{
      width: 50px;
@@ -677,7 +678,7 @@ margin-top: 40px;
     margin-bottom: 20px;
    }
    .footer-section h5{
-    margin-left: 45px;
+    margin-left: 20px;
     padding-top: 30px;
     padding-bottom: 10px;
     font-size: 21px;
@@ -685,7 +686,7 @@ margin-top: 40px;
    .footer-section li,
    .footer-section p{
     width: 350px;
-    margin-left: 25px;
+    margin-left: 10px;
     font-size: 16px;
    margin-top: 10px;
    }
