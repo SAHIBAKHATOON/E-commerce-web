@@ -450,21 +450,24 @@ margin-top: 40px;
      
    }
    .group-6{
-     margin-left: -5px;
+     margin-left: -px;
      
    }
     .image-2{
-      margin-left: -20px;
+      margin-left: -10px;
     }
    .group-6 img{
+     
      margin-top: 50px;
       height: 90px;
-      width: 180px;  
+      width: 170px; 
+      /* margin-left: 5px;  */
       margin-right: 10px;
    }
    .image-2 img{
+    
      height: 60px;
-     width: 111px;
+     width: 105px;
      margin-bottom: -20px; 
      margin-right: 6px;
    }
@@ -667,6 +670,7 @@ margin-top: 40px;
     width: 80px;
     height: 38px;
     font-size: 15px;
+    margin-left: 10px;
    }
    .footer-section{
     max-width: 350px;
