@@ -45,23 +45,23 @@ const NewCollection = () => {
     </div>
     <div className='group-images'>
       
-     <div className='street'> <img src={group56} alt="" /></div>
+       <img src={group56} alt="" /> 
       
-       <div className='striped'> <img src={group57} alt="" /> </div>
-        <div className="round"><img src={group58} alt="" /> </div>
+         <img src={group57} alt="" /> 
+         <img src={group58} alt="" />  
        </div>
    <div className='collection-section'>
    <div className='collection-image-2'>
-         <div  >   <img src={group55} alt='' /></div>
+        <img src={group55} alt='' /> 
             <img src={group54} alt="" />
             <img src={group53} alt="" />
 
-        </div>
+            </div>
    </div>
    <div className='group-images'>
-  <div className='print'>  <img src={group59} alt="" /></div>
-    <img src={group60} alt="" />
-    <img src={group61} alt="" />
+    <img src={group59} alt="" /> 
+    <img src={group60} alt="" /> 
+    <img src={group61} alt="" /> 
    </div>
 
    <div className='banner-3'>
