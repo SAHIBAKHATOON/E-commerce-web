@@ -29,8 +29,8 @@ import hurryup from '../images/Hurry Up!.png';
  import ellipse27 from '../images/Ellipse 27.png'
  import ellipse39 from '../images/Ellipse 39.png'
  import maskgroup from  '../images/Mask group.png'
- import subscribe from '../images/Subscribe.png'
- import group213 from '../images/Group 213.png'
+  import subscribe from '../images/Subscribe.png'
+//  import group213 from '../images/Group 213.png'
 const NewCollection = () => {
   return (
     <>
@@ -45,21 +45,21 @@ const NewCollection = () => {
     </div>
     <div className='group-images'>
       
-      <img src={group56} alt="" />
+     <div className='street'> <img src={group56} alt="" /></div>
       
-        <img src={group57} alt="" /> 
-        <img src={group58} alt="" /> 
+       <div className='striped'> <img src={group57} alt="" /> </div>
+        <div className="round"><img src={group58} alt="" /> </div>
        </div>
    <div className='collection-section'>
    <div className='collection-image-2'>
-            <img src={group55} alt='' />
+         <div  >   <img src={group55} alt='' /></div>
             <img src={group54} alt="" />
             <img src={group53} alt="" />
 
         </div>
    </div>
    <div className='group-images'>
-    <img src={group59} alt="" />
+  <div className='print'>  <img src={group59} alt="" /></div>
     <img src={group60} alt="" />
     <img src={group61} alt="" />
    </div>
@@ -69,8 +69,8 @@ const NewCollection = () => {
    </div>
 
    <div className='hurry-up'>
-    
-   <div className='diamond-image'>
+    <div className='color-1'>
+    <div className='diamond-image'>
     <img src={diamond} alt="" />
     <div className="hurry">
     <img src={hurryup} alt="" />
@@ -85,8 +85,14 @@ const NewCollection = () => {
       <img src={group44} alt="" />
     </div>
     </div>
-      <img src={rectangle12} alt="" />
-     <div className='discount-image'>
+   <div className='angle-1'>
+   <img src={rectangle12} alt="" />
+   </div>
+    </div>
+     
+     
+      <div className="colors-1">
+      <div className='discount-image'>
     <img src={discount} alt="" />
     <div className="hurry-1">
     <img src={hurryup} alt="" />
@@ -101,8 +107,11 @@ const NewCollection = () => {
       <img src={group44} alt="" />
     </div>
     </div>
-      <img src={rectangle13} alt="" />
-      
+    <div className='angle-1'>
+    <img src={rectangle13} alt="" />
+    </div>
+      </div>
+       
    </div>
    <div className='ellipse'>
       <img src={ellipse39} alt="" />
@@ -121,6 +130,7 @@ const NewCollection = () => {
       <img src={group201} alt="" />
       <div className="rotate-border"></div>
       <img src={group202} alt="" />
+      <div className="rotate-border"></div>
     </div>
     </div>
     <div className="ellipse-2">
@@ -136,9 +146,12 @@ const NewCollection = () => {
     <img src={subscribe} alt="" />
   </div>
   <div className='mail'>
-    <img src={group213} alt="" />
+    <input type="text"  placeholder='Enter your mail' required/>
+    <button className='btn-1'>Subscribe</button>
+    {/* <img src={group213} alt="" /> */}
   </div>
   </div>
+  <hr />
     </>
    
 
